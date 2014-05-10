@@ -22,7 +22,7 @@ specify a relative path, for example, <userinput>doc\userguide.ditamap</userinpu
 <step><cmd>When prompted, type the value for the transformation type.</cmd>
 <choicetable>
 <chhead>
-<choptionhd>Ouput format</choptionhd>
+<choptionhd>Output format</choptionhd>
 <chdeschd>Value</chdeschd>
 </chhead>
 <chrow>
